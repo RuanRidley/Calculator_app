@@ -1,6 +1,6 @@
 # Calculator_app
 UAplicativo de calculadora construído em HTML CSS e JavaScript
-
-👋Olá, sou o Ruan
-👀Estou interessado em web desenvolvedor frontEnd
+<br>
+👋Olá, sou o Ruan <br>
+👀Estou interessado em web desenvolvedor frontEnd <br>
 🌱Atualmente estou aprendendo desenvolvedor Full Stack pela DNc e estudando por conta própria 
