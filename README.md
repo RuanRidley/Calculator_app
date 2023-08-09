@@ -1,5 +1,5 @@
 # Calculator_app
-UAplicativo de calculadora construído em HTML CSS e JavaScript
+Aplicativo de calculadora construído em HTML CSS e JavaScript
 <br>
 👋Olá, sou o Ruan <br>
 👀Estou interessado em web desenvolvedor frontEnd <br>
